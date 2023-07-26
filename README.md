@@ -1,6 +1,5 @@
-# currency-converter
-This project is made by using java. This project is about converting the currency of different countries to another country currency.
-I have used java swing and Jframe to complete my project.
-Any type of conversion can be done in this conversion.
-For example: INR to USD, USD to INR, USD to EURO.....etc.
-This is a beginner level simple project to convert the currency of different countries.
+The purpose of this Java project is to convert a currency from one to another. 
+
+A web-based interface for converting currency and getting the output value, for example, here displays converting the currency of the US dollar to INR. 
+
+We see variations with different countries using different currencies. Be aware of the current exchange prices in the market and then can convert from one currency to another. A calculator-like application, developed using Ajax, Applet, and web features of Java servlets. You also get a regular update when there’s a change in the value of the country’s currency and also the conversion rate. 
