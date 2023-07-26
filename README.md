@@ -1,5 +1,14 @@
-The purpose of this Java project is to convert a currency from one to another. 
+**LGMVIP-Java-01**
+This repository contains a Java project, Currency Converter. This project use various Java technologies such as Java Swing, Java AWT and OOPS.
 
-A web-based interface for converting currency and getting the output value, for example, here displays converting the currency of the US dollar to INR. 
+Beginner Level
+**Currency Converter**
 
-We see variations with different countries using different currencies. Be aware of the current exchange prices in the market and then can convert from one currency to another. A calculator-like application, developed using Ajax, Applet, and web features of Java servlets. You also get a regular update when there’s a change in the value of the country’s currency and also the conversion rate. 
+**Project Description**
+The purpose of this Java project is to convert a currency from one to another. A web-based interface for converting currency and getting the output value, for example, here displays converting the currency of the US dollar to INR. We see variations with different countries using different currencies. Updated to the current exchange prices in the market it can convert from one currency to another. A calculator-like application, developed using Ajax, Applet, and web features of Java servlets.
+
+**Technologies Used**
+Java
+Java Swing
+Java AWT
+Object-Oriented Programming
